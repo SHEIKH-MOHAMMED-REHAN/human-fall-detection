@@ -1,4 +1,4 @@
-# use Linux for this project
+
 # Fall Detection System using YOLOv8
 
 This project is a fall detection system that uses computer vision powered by a custom-trained **YOLOv8** model. It detects when a person falls and sends alerts via WhatsApp along with the user's approximate geolocation.
